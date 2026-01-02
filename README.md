@@ -1,4 +1,4 @@
-# 🧪 Software Manual Testing Portfolio
+# 🧪 Software Manual Testing
 
 ## 👤 About Me
 I am a Software Manual Tester with hands-on experience in writing test plans, test cases, test scenarios, bug reports, and test summary reports.
