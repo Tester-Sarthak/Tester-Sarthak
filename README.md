@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🧪 Software Manual Testing Portfolio
 
-<!--
-**Tester-Sarthak/Tester-Sarthak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
+I am a Software Manual Tester with hands-on experience in writing test plans, test cases, test scenarios, bug reports, and test summary reports.
 
-Here are some ideas to get you started:
+## 📁 QA Manual Testing Project
+Manual testing project for web and mobile applications covering **functional**, **smoke**, and **regression testing**, along with **black box testing**, based on **SDLC** and **STLC** processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Manual Testing  
+- Test Case Design  
+- Bug Reporting  
+- Functional Testing  
+- UI Testing  
+- Regression Testing  
+- SDLC & STLC  
+
+## 📂 Repository Contents
+- 📄 Test Plan  
+- 📋 Test Cases  
+- 🐞 Bug Reports  
+- 🧠 Test Scenarios  
+- 📊 Test Summary Report  
+- ✅ Testing Checklists  
+
+## 🧰 Tools Used
+- MS Excel  
+- GitHub  
+- JIRA (knowledge)  
+- BrowserStack  
+
+## 📄 Resume
+My resume is available in the **resume** folder.
